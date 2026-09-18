@@ -50,5 +50,5 @@ Python 3.10+ is recommended if running the project locally.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/fairuzzahin/Knowledge Base Chatbot with Vector Database.git
+cd Knowledge Base Chatbot with Vector Database
