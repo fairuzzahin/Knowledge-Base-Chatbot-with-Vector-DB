@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
+lxml
+gradio
+pandas
+numpy
